@@ -64,7 +64,7 @@ export const LoginSignup = () => {
 	};
 
 	return (
-		<div className="w-full xxsm:h-[250vw] xsm:h-[90vw] imd:h-[80vw] md:h-[80vw] lg:h-[80vw] pr-[50px] xxsm:bg-[url('SignUp_mobile.png')] xsm:bg-[url('login_bg.png')] bg-cover bg-[top] login-container">
+		<div className="w-full xxsm:h-[250vw] xsm:h-[90vw] imd:h-[80vw] md:h-[80vw] lg:h-[80vw] pr-[50px] xxsm:bg-[url('SignUp_mobile.png')] xsm:bg-[url('/login_bg.png')] bg-cover bg-[top] login-container">
 			<div className="absolute top-0 left-0 xsm:w-[50vw] xsm:p-[20px] text-left xxsm:w-full xxsm:p-[11px] image-overlay">
 				<p className="xxsm:text-[30px] xsm:text-[40px] md:text-[50px] lg:text-[60px] xl:text-[70px] xsm:text-white xxsm:text-black pr-[20px] font-bold">
 					Sign Up !
