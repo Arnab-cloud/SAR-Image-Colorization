@@ -32,7 +32,7 @@ const Frame = () => {
 	};
 
 	return (
-		<div className="w-full relative xsm:h-[244vw]  overflow-hidden xxsm:bg-[url('Frame_6.png')] xsm:bg-[url('Frame_3.png')] bg-cover bg-no-repeat bg-[top] flex gap-0 text-center text-base text-border-alternate font-heading-desktop-h5 hover:flex hover:w-full xxsm:h-[350vh] ism:h-[400vh]">
+		<div className="w-full relative xsm:h-[244vw]  overflow-hidden xxsm:bg-[url('/Frame_6.png')] xsm:bg-[url('/Frame_3.png')] bg-cover bg-no-repeat bg-[top] flex gap-0 text-center text-base text-border-alternate font-heading-desktop-h5 hover:flex hover:w-full xxsm:h-[350vh] ism:h-[400vh]">
 			<div className="absolute xxsm:top-[10vw] xxsm:left-[5vw] xxsm:w-[39vw] xxsm:h-[73vw] flex flex-col items-start justify-start gap-6 text-left text-37xl">
 				<div className="self-stretch flex flex-col items-start justify-start xxsm:gap-3 md:gap-6">
 					<h1 className="m-0 xxsm:pt-[34px] xsm:p-0 self-stretch relative xxsm:text-[30px] xsm:text-[20px] md:text-11xl lg:text-21xl xl:text-inherit leading-[120%] font-bold font-[inherit]">
